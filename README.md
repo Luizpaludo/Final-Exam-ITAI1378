@@ -49,7 +49,7 @@ requirements.txt
 ## How to Run
 1. Install the required libraries listed in `requirements.txt`.
 2. Open `Final_Project_gate_opener.ipynb` in Google Colab or Jupyter Notebook.
-3. Upload the License_Plate_Dataset.zip, authorized_plates.csv and the My_personal_dataset_2.zip.
+3. Download the License_Plate_Dataset from the link and upload the authorized_plates.csv and the My_personal_dataset_2.zip.
 4. Run the notebook cells in order.
 5. Test the system using the provided sample images.
 
