@@ -31,6 +31,7 @@ The final system detects a vehicle's license plate using a custom-trained YOLO11
 ```
 notebooks/
     Final_Project_gate_opener.ipynb
+    authorized_plates.csv
 
 docs/
     AI_usage_log.md
@@ -48,8 +49,9 @@ requirements.txt
 ## How to Run
 1. Install the required libraries listed in `requirements.txt`.
 2. Open `Final_Project_gate_opener.ipynb` in Google Colab or Jupyter Notebook.
-3. Run the notebook cells in order.
-4. Test the system using the provided sample images or your own images.
+3. Upload the authorized_plates.csv and the My_personal_dataset_2.zip.
+4. Run the notebook cells in order.
+5. Test the system using the provided sample images or your own images.
 
 ---
 
