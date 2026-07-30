@@ -59,7 +59,7 @@ The completed project successfully detects license plates, recognizes the licens
 ---
 
 ## Demo Video
-(Add your demo video link here.)
+[(https://www.youtube.com/watch?v=uJrTQi0Emhg)]
 
 ---
 
